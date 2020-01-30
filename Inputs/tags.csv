@@ -1,0 +1,68 @@
+tipo;id;nome;peso
+0;0;Terrorismo;1
+0;1;Pouso de emergência;1
+0;2;Operações na neve;1
+0;3;Fogo a bordo;1
+0;4;Voo de cruzeiro;1
+0;5;Falha na comunicação;1
+0;6;Animal na pista;1
+0;7;Falta de combustível;1
+0;8;Passageiro indisciplinado;1
+0;9;Tripulante incapacitado;1
+0;10;Problema hidráulico;1
+0;11;Pane de motor;1
+0;12;Colisão com pássaro;1
+0;13;Objeto voador perigoso;1
+0;14;Emergência médica;1
+0;15;Condições climáticas;1
+0;16;Falha do ATC;1
+0;17;Objeto na pista;1
+0;18;Excursão da pista;1
+0;19;Incursão de veículos na pista;1
+0;20;Colisão no táxi;1
+0;21;Animal de estimação;1
+0;22;Carga;1
+0;23;Leitura de instrumento;1
+0;24;Rota;1
+0;25;Órbita;1
+0;26;Trem de pouso com problema;1
+0;27;Mercado de trabalho;1
+0;28;Automatização;1
+0;29;Outros;1
+1;30;Brasileiro;1
+1;31;Nativo Fácil;1
+1;32;Nativo Difícil;1
+1;33;Estrangeiro;1
+2;34;Terrorismo;1
+2;35;Pouso de emergência;1
+2;36;Operações na neve;1
+2;37;Fogo a bordo;1
+2;38;Voo de cruzeiro;1
+2;39;Falha na comunicação;1
+2;40;Animal na pista;1
+2;41;Falta de combustível;1
+2;42;Passageiro indisciplinado;1
+2;43;Tripulante incapacitado;1
+2;44;Problema hidráulico;1
+2;45;Pane de motor;1
+2;46;Colisão com pássaro;1
+2;47;Objeto voador perigoso;1
+2;48;Emergência médica;1
+2;49;Condições climáticas;1
+2;50;Falha do ATC;1
+2;51;Objeto na pista;1
+2;52;Excursão da pista;1
+2;53;Incursão de veículos na pista;1
+2;54;Colisão no táxi;1
+2;55;Animal de estimação;1
+2;56;Carga;1
+2;57;Leitura de instrumento;1
+2;58;Rota;1
+2;59;Órbita;1
+2;60;Trem de pouso com problema;1
+2;61;Mercado de trabalho;1
+2;62;Automatização;1
+2;63;Outros;1
+3;64;Presente;0
+3;65;Passado;0
+3;66;Futuro;0

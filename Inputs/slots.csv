@@ -1,0 +1,17 @@
+idSlot;parte;posicao;descricao;pool
+0;1;1;Primeira questão de assuntos gerais;0
+1;1;2;Segunda questão de assuntos gerais;0
+2;1;3;Terceira questão de assuntos gerais;0
+3;2;1;Primeira questão de role play, sem imagem;1
+4;2;2;Segunda questão de role play, sem imagem;1
+5;2;3;Terceira questão de role play, sem imagem;1
+6;2;4;Quarta questão de role play, com imagem;2
+7;2;5;Quinta questão de role play, com imagem;2
+8;3;1;Primeira questão de reporte;3
+9;3;2;Segunda questão de reporte;3
+10;3;3;Terceira questão de reporte;3
+11;3;4;Questão de comparação;4
+12;4;1;Questão para descrever imagens;5
+13;4;2;Primeira questão abstrata, parte 4;6
+14;4;3;Segunda questão abstrata, parte 4;6
+15;4;4;Terceira questão abstrata, parte 4;6
